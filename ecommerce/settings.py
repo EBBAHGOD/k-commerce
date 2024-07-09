@@ -136,3 +136,4 @@ JAZZMIN_SETTINGS={
     'copyright':"K-commerce.com"
 }
 
+AUTH_USER_MODEL='userauth.User'
